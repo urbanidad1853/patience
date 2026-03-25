@@ -7,7 +7,7 @@
 <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="español">Acta de la Independencia</title>
+                <title xml:id="prueba 1">Acta de la Independencia</title>
                 <author>Congreso de las Provincias Unidas en Sud-América</author>
                 <editor xml:id="RDL">Romina De León</editor>
                 <editor xml:id="GDR">Gimena del Rio Riande</editor>
@@ -30,10 +30,7 @@
         </fileDesc>
     </teiHeader>
 <text>
-<body><div type="title"><head type="title">ACTA
-DE INDEPENDENCIA
-DECLARADA POR EL CONGRESO DE LAS PROVINCIAS UNIDAS
-EN SUD - AMERICA.</head></div>
+<body><div type="title"><head type="title">Libertad!</head></div>
 
 <pb n="1" facs="acta_sp_ay_1.jpg"/>
 <div type="page" n="1">
