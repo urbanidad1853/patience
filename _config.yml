@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://hdlab.space
+url: https://urbanidad1853.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /independencia
+baseurl: /patience
 # location of code, the full url to your github repository
-source-code: https://github.com/hdlabconicet/independencia
+source-code: https://github.com/urbanidad1853/patience
 
 ##########
 # SITE SETTINGS
@@ -25,9 +25,9 @@ title: Declaración de Independencia de las Provincias Unidas del Sur
 # this description might appear in search result lists, keep around 160 characters max
 description: "Edición digital de la Declaración de Independencia de las Provincias Unidas del Sur."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: colecciones; edición digital; 
+keywords: colecciones; edición digital; independencia; Argentina
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: hdlab-CONICET
+author: Patience Schell
 
 ##########
 # COLLECTION SETTINGS
