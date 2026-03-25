@@ -1,0 +1,89 @@
+{
+    "profile": "data-package",
+    "name": "declaración-de-independencia-de-las-provincias-unidas-del-sur-data",
+    "title": "Declaración de Independencia de las Provincias Unidas del Sur Data",
+    "description": "Metadata and data derived from Declaración de Independencia de las Provincias Unidas del Sur. Edición digital de la Declaración de Independencia de las Provincias Unidas del Sur.",
+    "keywords":  ["colecciones"," edición digital"],
+    "homepage": "http://localhost:4000/independencia/",
+    "contributors": [
+        {
+            "title": "",
+            "path": "",
+            "role": "author"
+        }
+    ],
+    "image": "/independencia/objects/portada.jpg",
+    "licenses": [
+        {
+            "name": "CC0-1.0",
+            "title": "CC0 1.0",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+         
+        {
+            "name": "facets-json",
+            "path": "facets.json",
+            "title": "Declaración de Independencia de las Provincias Unidas del Sur Metadata Facets",
+            "description":"Unique values and counts of metadata facet fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "subject-csv",
+            "path": "subjects.csv",
+            "title": "Declaración de Independencia de las Provincias Unidas del Sur metadata subject counts in csv",
+            "description": "Unique values and counts of metadata subject fields.",
+            "format":"csv",
+            "profile":"tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "subject",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "link",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "subjects-json",
+            "path": "subjects.json",
+            "title": "Declaración de Independencia de las Provincias Unidas del Sur  metadata subject counts in json",
+            "description":"Unique values and counts of metadata subject fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        
+        
+        {
+            "name": "metadata-csv",
+            "path": "metadata.csv",
+            "title": "Declaración de Independencia de las Provincias Unidas del Sur full metadata in csv",
+            "description": "Complete metadata export for Declaración de Independencia de las Provincias Unidas del Sur objects.",
+            "format":"csv",
+            "profile":"data-resource"
+        },
+        {
+            "name": "metadata-json",
+            "path": "metadata.json",
+            "title": "Declaración de Independencia de las Provincias Unidas del Sur full metadata in json",
+            "description": "Complete metadata export for Declaración de Independencia de las Provincias Unidas del Sur objects.",
+            "format":"json",
+            "profile":"data-resource"
+        }
+    ]
+}

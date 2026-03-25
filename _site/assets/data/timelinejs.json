@@ -1,0 +1,30 @@
+{
+    "title": {
+        "media": {
+          "url": "/independencia/objects/portada.jpg",
+          "caption": null,
+          "credit": "Declaración de Independencia de las Provincias Unidas del Sur"
+        },
+        "text": {
+          "headline": "Declaración de Independencia de las Provincias Unidas del Sur Timeline",
+          "text": "Edición digital de la Declaración de Independencia de las Provincias Unidas del Sur."
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "/independencia/objects/small/acta_sp_ay_1.jpg",
+          "caption": "Acta de la declaración Independencia de las Provincias Unidas del Sur en español",
+          "link": "/independencia/items/español.html"
+        },
+        "start_date": { 
+          
+          "year": "1816"
+        },
+        "text": {
+          "headline": "Acta de la declaración Independencia de las Provincias Unidas del Sur en español",
+          "text": "Acta de la declaración Independencia de las Provincias Unidas del Sur en español"
+        }
+      }
+    ]
+}

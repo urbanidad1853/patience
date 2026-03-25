@@ -1,0 +1,24 @@
+{
+    "facets": [ 
+        {
+            "field": "subject",
+            "terms": { 
+                "independencia": 1,
+                "provincias unidas del sur": 1
+            }
+        },
+        {
+            "field": "creator",
+            "terms": { 
+                "congreso de las provincias unidas en sud-américa": 1
+            }
+        },
+        {
+            "field": "format",
+            "terms": { 
+                "image/jpeg": 4
+            }
+        }
+        
+    ]
+}

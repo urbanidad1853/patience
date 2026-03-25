@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="español">Acta de la Independencia</title>
+                <author>Congreso de las Provincias Unidas en Sud-América</author>
+                <editor xml:id="RDL">Romina De León</editor>
+                <editor xml:id="GDR">Gimena del Rio Riande</editor>
+                <editor xml:id="GAC">Gabriel Alejandro Calarco</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <availability>
+                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc> 
+                <bibl>
+                    <pubPlace>Buenos-Ayres</pubPlace>
+                    <publisher>Imprenta de Gandarillas y socios</publisher>      
+                    <date>1816</date>
+                    <note>En la primera página figura el sello del Archivo General de la Nación.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<text>
+<body><div type="title"><head type="title">ACTA
+DE INDEPENDENCIA
+DECLARADA POR EL CONGRESO DE LAS PROVINCIAS UNIDAS
+EN SUD - AMERICA.</head></div>
+
+<pb n="1" facs="acta_sp_ay_1.jpg"/>
+<div type="page" n="1">
+<p>En la benemérita y muy digna <placeName key="tucuman">ciudad de san Miguel del Tucuman</placeName> á <date>nueve dias del mes de julio de mil ochocientos diez y seis</date>: terminada la sesion ordinaria, el <note xml:id="p1n1">Congreso de las Provincias - Unidas</note> continuó sus anteriores discusiones sobre el grande, augusto y sagrado objeto de la independencia los pueblos que lo que lo forman. Era universal, constante y decidido el clamor del territorio entero por su emancipacion solemne del poder despótico de <note xml:id="p1n2">los reyes de España</note>; los representantes sin embargo consagraron á tan arduo asunto toda la profundidad de sus talentos, la rectitud de sus intenciones é interes que demanda la sancion de la suerte suya, pueblos representados y posteridad. A su término fuéron preguntados ¿Si querian qué las <placeName key="provinciasunidas">Provincias de la Union</placeName> fuese una nacion libre é independiente de los reyes de España y su metrópoli? Aclamáron primeramente llenos del santo ardor de la justicia, y uno á uno reiteraron sucesivamente su unánime y espontaneo decidido voto por la independencia del pais, fixando-en su virtud la declaracion siguiente.</p>
+</div>
+
+<pb n="2" facs="acta_sp_ay_2.jpg"/>
+<div type="page" n="2">
+<p>Nos los representantes de las <placeName key="provinciasunidas">Provincias Unidas en Sud América</placeName>, reunidos en congreso general, invocando al Eterno que preside al universo, en el nombre y por la autoridad de los pueblos que representamos, protextando al Cielo, a las naciones y hombres todos del globo la justicia que regla nuestros votos; declaramos solemnemente á la faz de la tierra, que es voluntad unánime é indubitable de estas Provincias romper los violentos vínculos que las ligaban a los reyes de España, recuperar los derechos de que fueron despojadas, é investirse del alto carácter de una nación libre e independiente del <persName key="fernandovii">rey Fernando séptimo</persName>, sus sucesores y metrópoli. Quedando en consecuencia de hecho y de derecho con amplio y pleno poder para darse las formas que exija la justicia, é impere el cúmulo de sus actuales circunstancias. Todas y cada una de ellas así lo publican, declaran y ratifican, comprometiéndose por nuestro medio al cumplimiento y sostén de esta su voluntad baxo del seguro y garantía de sus vidas, haberes y fama. Comuníquese á quienes corresponda para su publicación; y en obsequio del respeto que se debe a las naciones, detállense en un manifiesto los gravísimos fundamentos impulsivos de esta solemne declaración. Dada en la Sala de sesiones; firmada de nuestra mano, sellada con el sello del Congreso y refrendada por nuestros diputados secretarios.</p>
+
+<l><persName key="laprida">Francisco Narciso de Laprida</persName>,
+Diputado por <placeName key="sanjuan">S. Juan</placeName></l>
+
+<l><persName key="boedo">Mariano Boedo</persName>,
+Vice-presidente, diputado por <placeName key="salta">Salta</placeName>.</l>
+
+<l>Doctor <persName key="saenz">Antonio Sáenz</persName>,
+Diputado por <placeName key="bsas">Buenos-Ayres</placeName>.</l>
+</div>
+
+<pb n="3" facs="acta_sp_ay_3.jpg"/>
+<div type="page" n="3">
+<l>Dr. <persName key="darregueira">José Darregueira</persName>,
+Diputado por <placeName key="bsas">Buenos-Ayres</placeName>.</l>
+
+<l>Fray <persName key="rodriguez">Cayetano José Rodriguez</persName>,
+Diputado por <placeName key="bsas">Buenos-Ayres</placeName>.</l>
+
+<l>Dr. <persName key="medrano">Pedro Medrano</persName>,
+Diputado por <placeName key="bsas">Buenos-Ayres</placeName>.</l>
+
+<l>Dr. <persName key="acevedo">Manuel Antonio Acevedo</persName>,
+Diputado por <placeName key="catamarca">Catamarca</placeName>.</l>
+
+<l>Dr. <persName key="gorriti">José Ignacio de Gorriti</persName>,
+Diputado por <placeName key="salta">Salta</placeName>.</l>
+
+<l>Dr. <persName key="pacheco">José Andres Pacheco de Melo</persName>,
+Diputado por <placeName key="chichas">Chichas</placeName>.</l>
+
+<l>Dr. <persName key="bustamante">Teodoro Sanchez de Bustamante</persName>,
+Diputado de <placeName key="jujuy">Jujuy</placeName> y su terriTorio.</l>
+
+<l><persName key="vulnez">Eduardo Perez Vulnez</persName>,
+Diputado por <placeName key="cordova">Córdova</placeName>.</l>
+
+<l><persName key="cruz">Tomas Godoy Cruz</persName>,
+Diputado por <placeName key="mendoza">Mendoza</placeName>.</l>
+
+<l>Dr. <persName key="araoz">Pedro Miguel Araoz</persName>,
+Diputado por la capital del <placeName key="tucuman">Tucuman</placeName>.</l>
+
+<l>Dr. <persName key="gazcon">Estevan Agustin Gazcon</persName>,
+Diputado por la <placeName key="bsas">prov. de Buenos-Ayres</placeName>.</l>
+
+<l><persName key="uriarte">Pedro Francisco Uriarte</persName>,
+Diputado de <placeName key="santiagodelestero">Santiago del Estero</placeName>.</l>
+
+<l><persName key="gallo">Pedro Leon Gallo</persName>,
+Diputado de <placeName key="santiagodelestero">Santiago del Estero</placeName>.</l>
+
+<l><persName key="ribera">Pedro Ignacio de Ribera</persName>.
+Diputado de <placeName key="mizque">Mizque</placeName>.</l>
+
+<l>Dr. <persName key="loria">Mariano Sanchez Loria</persName>,
+Diputado por Charcas.</l>
+
+<l>Dr. <persName key="malavia">José Severo Malavia</persName>,
+Diputado por <placeName key="charcas">Charcas</placeName>.</l>
+
+<l><persName key="castrobarros">Pedro Ignacio de Castro Barros</persName>,
+Diputado por <placeName key="larioja">la Rioja</placeName>.</l>
+
+<l>Maestro <persName key="salguero">Gerónimo Salguero de Cabrera y Cabrera</persName>,
+Diputado por <placeName key="cordova">Córdova</placeName>.</l>
+
+<l>Dr. <persName key="colombres">José Colombres</persName>,
+Diputado por <placeName key="catamarca">Catamarca</placeName>.</l>
+
+<l>Dr. <persName key="thames">José Ignacio Thames</persName>,
+Diputado por <placeName key="tucuman">Tucuman</placeName>.</l>
+
+<l>F. <persName key="oros">Justo de Santa Maria de Oro</persName>,
+Diputado por <placeName key="sjuan">S. Juan</placeName>.</l>
+
+<l><persName key="cabrera">José Antonio Cabrera</persName>,
+Diputado por <placeName key="cordova">Córdova</placeName>.
+</l>
+</div>
+
+<pb n="4" facs="acta_sp_ay_4.jpg"/>
+<div type="page" n="4">
+<l>Dr. <persName key="maza">Juan Agustin Maza</persName>:
+Diputado por <placeName key="mendoza">Mendoza</placeName>.</l>
+
+<l><persName key="anchorena">Tomas Manuel Anchorena</persName>;
+Diputado de <placeName key="bsas">Buenos-Ayres</placeName>.</l>
+
+<l><persName key="serrano">José Mariano Serrano</persName>,
+diputado por <placeName key="charcas">Charcas</placeName> — Secretario.</l>
+
+<l><persName key="paso">Juan José Paso</persName>,
+Diputado de <placeName key="bsas">Buenos-Ayres</placeName> — Secretario.</l>
+</div>
+<div type="subtitle"> <!-- acá se podría añadir una div para el cuestionario o dejamos todo el pb -->
+<head type="subtitle">FORMULA DE JURAMENTO QUE HAN DE PRESTAR TODOS LOS HABITANTES DE Las PROVINCIAS - UNIDAS DE
+SUD AMERICA.</head>
+
+<p>¿Jurais por Dios Nuestro Señor y esta señal de + promover y defender la libertad de las Provincias-Unidas en Sud América, y su independencia del Rey de España Fernando séptimo , sus sucesores y metrópoli y toda otra dominacion extrangera?</p>
+
+<p>¿Jurais á Dios nuestro señor y prometeis á la patria el sostén de estos derechos hasta con la vida, haberes y fama?</p>
+
+<p>Si juro.</p>
+
+<p>Si así lo hicieres Dios ós ayude , y si no él y la patria os hagan cargo.</p>
+</div>
+</body>
+</text>
+
+</TEI>

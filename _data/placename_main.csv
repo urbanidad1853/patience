@@ -1,0 +1,50 @@
+key,city,country,latitude,longitude,comment,annotation
+bsas,Buenos Aires,Argentina,-34.6037,-58.3816,,"Buenos Aires era un pequeño asentamiento colonial dependiente del Virreinato del Perú, fundado en 1536 y refundado en 1580 por Juan de Garay. A partir de 1776 cobró mayor importancia al ser declarada capital del Virreinato del Río de la Plata."
+lima,Lima,Perú,-12.046374,-77.0428,,"Lima era la capital del Virreinato del Perú y uno de los principales centros políticos, económicos y culturales de la América colonial."
+tucuman,Tucumán,Argentina,-26.81666667,-65.21666667,,"Tucumán es una provincia del noroeste de Argentina, conocida por su producción de azúcar y cítricos. Su capital, San Miguel de Tucumán, fue el lugar donde se declaró la Independencia Argentina en 1816."
+cordoba,Córdoba,Argentina,-31.41666667,-64.18333333,,"Provincia del centro de Argentina, conocida por su diversidad geográfica que incluye sierras, valles y llanuras."
+salta,Salta,Argentina,-24.78833333,-65.41055556,,"Ubicada estratégicamente en el Camino Real al Alto Perú, servía como punto de enlace entre Tucumán, Jujuy y las rutas hacia Potosí."
+jujuy,Jujuy,Argentina,-24.1858,-65.2995,,"Situada al pie de los Andes, fue un enclave estratégico en el Camino Real al Alto Perú, que conectaba el noroeste argentino con Potosí."
+españa,España,España,40.44374212,-3.688511975,,España es un país de la peninsula ibérica de Europa. Este era el lugar de residencia de la corona española que tuvo potestad sobre el Virreinato del Río de la Plata.
+riodelaplata,Rio de la Plata,Argentina,-34.883,-56.7136,,"rio formado por la union entre los rios parana y uruguay, en el cono sur de america y desemboca en el atlantico sur"
+santiagodechile,Santiago de Chile,Chile,-33.4489,-70.6693,,"fue uno de los principales centros administrativos del Reino de Chile dentro del Imperio español. Ubicada al pie de la Cordillera de los Andes, mantenía una conexión clave con Mendoza y el resto del virreinato a través de los pasos cordilleranos"
+rioplata,Rio de la Plata,Argentina/Uruguay,-34.69392999,-57.41171597,,"El Rio de la Plata está formado por la unión de los ríos Uuruguay y Paraná. Se encuentra ubicado al sur de América y desemboca en el Atlántico Sur. Durante la época del virreinato, fue fundamental para construir su poder al permitir el traslado de mercancías recibidas en su puerto en Buenos Aires. "
+stafe,Santa fe,Argentina,-33.72277778,-62.24611111,,"Ubicada a orillas del río Paraná, fue un punto estratégico del comercio fluvial y del Camino Real que conectaba Buenos Aires con el interior"
+corrientes,Corrientes,Argentina,-28.66,-57.63,,"Situada a orillas del río Paraná, tuvo gran importancia como punto de conexión fluvial entre Asunción, Buenos Aires y el interior del país."
+montevideo,Montevideo,Uruguay,-34.905917,-56.191311,,Capital del Uruguay.
+castilla,Castilla,España,39.42453482,-3.307344671,,"""Castilla"" es una región histórica de España cuyo significado se divide en dos comunidades autónomas modernas: Castilla y León, ubicada en el noroeste y la más extensa de España, y Castilla-La Mancha, situada en el centro peninsular. "
+parana,Paraná,Argentina,-31.73975205,-60.50617645,,"Paraná es la capital de la provincia de Entre Ríos y se ubica en el centro-oeste argentino, destacándose por su historia y ubicación sobre las barrancas del río Paraná. "
+chile,Chile,Chile,-27.21214299,-69.70809146,,"Chile es un país que se encuentra en el extremo sur de América. Tiene una forma larga y angosta, definida por su ubicación entre el Océano Pacífico y la cordillera de los Andes"
+mendoza,Mendoza,Argentina,-32.89010359,-68.84822056,,Mendoza es una provincia de Argentina. Se localiza en la llanura al este de la cordillera de los Andes
+sanjaun,San Juan,Argentina,-31.53604668,-68.54377894,,"San Juan es una provincia de Argentina, ubicada en la zona central occidental, al este de la Cordillera de los Andes."
+smtucuman,San Miguel de Tucuman,Argentina,-26.8241,-65.2226,,"Capital de la provincia de Tucumán y uno de los centros históricos más antiguos del norte argentino. Durante el período colonial, fue una posta clave en el Camino Real al Alto Perú, actuando como punto de enlace comercial, político y religioso entre el Río de la Plata y el altiplano."
+lujan,Lujan,Argentina,-34.5703,-59.105,,"Luján es una ciudad de la provincia de Buenos Aires, reconocida por su Basílica dedicada a la Virgen de Luján, patrona de la Argentina. Durante el período colonial, fue un punto estratégico en el camino entre Buenos Aires y el interior del Virreinato del Río de la Plata, ofreciendo hospedaje y servicios a los viajeros."
+merlo,Merlo,Argentina,-32.3432,-65.0156,,"Merlo se encuentra en la provincia de San Luis, al pie de las Sierras de los Comechingones. Fundada en el siglo XVIII, fue un importante punto de paso entre Cuyo y el Río de la Plata"
+provinciasunidas,Provincias Unidas del Sur,Argentina/Bolivia/Paraguay/Uruguay,-34.6037,-58.3816,,"Las Provincias Unidas del Sur fueron una entidad política surgida en el contexto de las guerras de independencia hispanoamericanas a comienzos del siglo XIX. El término se utilizó para referirse al conjunto de provincias que, tras la Revolución de Mayo de 1810, rompieron con la autoridad colonial española y ensayaron distintas formas de organización autónoma y confederal en el área del antiguo Virreinato del Río de la Plata. Su existencia estuvo marcada por conflictos internos, disputas sobre el poder central y guerras externas, y constituyó un antecedente fundamental en la formación del Estado argentino."
+catamarca,Catamarca,Argentina,-28.467,-65.783,,"Catamarca es una provincia del noroeste argentino, caracterizada por su geografía montañosa y clima mayormente árido. En 1821 se constituyó como provincia autónoma, separándose de Tucumán."
+chichas,Chichas,Argentina/Bolivia,-21.438,-65.735,,"La provincia de Chichas fue una antigua división administrativa de época colonial, ubicada en el sur del Alto Perú (actual Bolivia). Durante el período del Virreinato del Río de la Plata tuvo gran importancia estratégica y económica, principalmente por la minería y por su posición como zona de paso entre el Alto Perú y las regiones del noroeste argentino."
+santiagodelestero,Santiago del Estero ,Argentina,-27.783,-64.266,,"Santiago del Estero es una de las provincias más antiguas de Argentina, conocida como ""La Madre de Ciudades"" debido a que su capital, Santiago del Estero, es la ciudad más antigua del país, fundada en 1553."
+charcas,Charcas,Argentina/Bolivia,-19.584,-65.754,,"La provincia de Charcas fue una histórica división territorial del Virreinato del Río de la Plata, que en el contexto de la independencia de los países sudamericanos, formó parte de los territorios de lo que hoy son Bolivia y parte del norte de Argentina. A nivel geográfico, la provincia de Charcas incluía una importante zona de recursos mineros, como las riquezas de Potosí, y funcionaba como un nexo entre los territorios del Río de la Plata y las áreas andinas."
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+cordova,Cordoba,Argentina,-31.41666667,-64.18333333,,"Provincia del centro de Argentina, conocida por su diversidad geográfica que incluye sierras, valles y llanuras."

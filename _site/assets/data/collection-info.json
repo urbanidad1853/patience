@@ -1,0 +1,21 @@
+{ 
+    "title": "Declaración de Independencia de las Provincias Unidas del Sur",
+    "url": "http://localhost:4000/independencia/",
+    "image": "/independencia/objects/portada.jpg", 
+    "description": "Edición digital de la Declaración de Independencia de las Provincias Unidas del Sur.",
+    "publisher": { 
+        "name": "", 
+        "url": "", 
+        "logo": "" 
+    },
+    "date_start": "1816",
+    "date_end": "1816",
+    "objects": {
+        null: "0",
+        "image/jpeg": "4"
+        
+    },
+    "data": "http://localhost:4000/independencia/assets/data/datapackage.json",
+    "last_build_date": "2026-03-24"
+}
+
