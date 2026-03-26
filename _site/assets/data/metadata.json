@@ -97,6 +97,186 @@
         "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_ay_4.jpg",
         "object_location": "http://localhost:4000/patience/objects/acta_sp_ay_4.jpg",
         "reference_url": "/patience/items/español.html#español_p4"
+    },
+    { 
+        "title": "Acta de la declaración Independencia de las Provincias Unidas del Sur en aymara",
+        "creator": "Congreso de las Provincias Unidas en Sud-América",
+        "date": "1816",
+        "description": "Acta de la declaración Independencia de las Provincias Unidas del Sur en aymara",
+        "subject": "independencia; provincias unidas del sur",
+        "location": "Tucumán",
+        "latitude": "-26.81666667",
+        "longitude": "-65.21666667",
+        "source": "Archivo General de la Nación",
+        
+        
+        
+        "language": "aymara",
+        
+        
+        "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_ay_1.jpg",
+        "object_location": "",
+        "reference_url": "/patience/items/aymara.html"
+    },
+    { 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_ay_1.jpg",
+        "object_location": "http://localhost:4000/patience/objects/acta_sp_ay_1.jpg",
+        "reference_url": "/patience/items/aymara.html#aymara_p1"
+    },
+    { 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_ay_2.jpg",
+        "object_location": "http://localhost:4000/patience/objects/acta_sp_ay_2.jpg",
+        "reference_url": "/patience/items/aymara.html#aymara_p2"
+    },
+    { 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_ay_3.jpg",
+        "object_location": "http://localhost:4000/patience/objects/acta_sp_ay_3.jpg",
+        "reference_url": "/patience/items/aymara.html#aymara_p3"
+    },
+    { 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_ay_4.jpg",
+        "object_location": "http://localhost:4000/patience/objects/acta_sp_ay_4.jpg",
+        "reference_url": "/patience/items/aymara.html#aymara_p4"
+    },
+    { 
+        "title": "Acta de la declaración Independencia de las Provincias Unidas del Sur en quechua",
+        "creator": "Congreso de las Provincias Unidas en Sud-América",
+        "date": "1816",
+        "description": "Acta de la declaración Independencia de las Provincias Unidas del Sur en quechua",
+        "subject": "independencia; provincias unidas del sur",
+        "location": "Tucumán",
+        "latitude": "-26.81666667",
+        "longitude": "-65.21666667",
+        "source": "Archivo General de la Nación",
+        
+        
+        
+        "language": "quechua",
+        
+        
+        "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_que_1.jpg",
+        "object_location": "",
+        "reference_url": "/patience/items/quechua.html"
+    },
+    { 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_que_1.jpg",
+        "object_location": "http://localhost:4000/patience/objects/acta_sp_que_1.jpg",
+        "reference_url": "/patience/items/quechua.html#quechua_p1"
+    },
+    { 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_que_2.jpg",
+        "object_location": "http://localhost:4000/patience/objects/acta_sp_que_2.jpg",
+        "reference_url": "/patience/items/quechua.html#quechua_p2"
+    },
+    { 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_que_13jpg",
+        "object_location": "http://localhost:4000/patience/objects/acta_sp_que_3.jpg",
+        "reference_url": "/patience/items/quechua.html#quechua_p3"
     }
     
 ] }

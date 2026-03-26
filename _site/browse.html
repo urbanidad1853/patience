@@ -212,7 +212,11 @@
 var items = [
     
     { "date":"1816","creator":"Congreso de las Provincias Unidas en Sud-América","subject":"independencia; provincias unidas del sur","location":"Tucumán","img": "/patience/objects/thumbs/acta_sp_ay_1.jpg","template": "transcripciones","title":"Acta de la declaración Independencia de las Provincias Unidas del Sur en español",
-        "id":"español" }];
+        "id":"español" },
+    { "date":"1816","creator":"Congreso de las Provincias Unidas en Sud-América","subject":"independencia; provincias unidas del sur","location":"Tucumán","img": "/patience/objects/thumbs/acta_sp_ay_1.jpg","template": "transcripciones","title":"Acta de la declaración Independencia de las Provincias Unidas del Sur en aymara",
+        "id":"aymara" },
+    { "date":"1816","creator":"Congreso de las Provincias Unidas en Sud-América","subject":"independencia; provincias unidas del sur","location":"Tucumán","img": "/patience/objects/thumbs/acta_sp_que_1.jpg","template": "transcripciones","title":"Acta de la declaración Independencia de las Provincias Unidas del Sur en quechua",
+        "id":"quechua" }];
 
 /* 
     get a theme icon based on display_template or format 
@@ -375,7 +379,7 @@ function filterItems(arr,q) {
         }
     }
     // add number 
-    document.querySelector("#numberOf").innerHTML = filteredItems.length + " de 1 documentos";
+    document.querySelector("#numberOf").innerHTML = filteredItems.length + " de 3 documentos";
     
     // add stuff, make cards first in giant var, then add all at once to speed things up
     var cards = "";

@@ -28,6 +28,60 @@
                 "object_location": "",
                 "reference_url": "/patience/items/español.html"
             }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-65.21666667,-26.81666667]
+            },            
+            "properties":{
+                "title": "Acta de la declaración Independencia de las Provincias Unidas del Sur en aymara",
+                "creator": "Congreso de las Provincias Unidas en Sud-América",
+                "date": "1816",
+                "description": "Acta de la declaración Independencia de las Provincias Unidas del Sur en aymara",
+                "subject": "independencia; provincias unidas del sur",
+                "location": "Tucumán",
+                "latitude": "-26.81666667",
+                "longitude": "-65.21666667",
+                "source": "Archivo General de la Nación",
+                
+                
+                
+                "language": "aymara",
+                
+                
+                "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_ay_1.jpg",
+                "object_location": "",
+                "reference_url": "/patience/items/aymara.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-65.21666667,-26.81666667]
+            },            
+            "properties":{
+                "title": "Acta de la declaración Independencia de las Provincias Unidas del Sur en quechua",
+                "creator": "Congreso de las Provincias Unidas en Sud-América",
+                "date": "1816",
+                "description": "Acta de la declaración Independencia de las Provincias Unidas del Sur en quechua",
+                "subject": "independencia; provincias unidas del sur",
+                "location": "Tucumán",
+                "latitude": "-26.81666667",
+                "longitude": "-65.21666667",
+                "source": "Archivo General de la Nación",
+                
+                
+                
+                "language": "quechua",
+                
+                
+                "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_que_1.jpg",
+                "object_location": "",
+                "reference_url": "/patience/items/quechua.html"
+            }
         }
     ]
 }

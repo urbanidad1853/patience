@@ -148,7 +148,7 @@
 </div><script>
     /* add item data */
     // title,objectid,image_thumb/small
-    var carouselItems = [ [ "Acta de la declaración Independencia de las Provincias Unidas del Sur en español", "español", "/patience/objects/small/acta_sp_ay_1.jpg", "", "Acta de la declaración Independencia de las Provincias Unidas del Sur en español" ]];
+    var carouselItems = [ [ "Acta de la declaración Independencia de las Provincias Unidas del Sur en español", "español", "/patience/objects/small/acta_sp_ay_1.jpg", "", "Acta de la declaración Independencia de las Provincias Unidas del Sur en español" ], [ "Acta de la declaración Independencia de las Provincias Unidas del Sur en aymara", "aymara", "/patience/objects/small/acta_sp_ay_1.jpg", "", "Acta de la declaración Independencia de las Provincias Unidas del Sur en aymara" ], [ "Acta de la declaración Independencia de las Provincias Unidas del Sur en quechua", "quechua", "/patience/objects/small/acta_sp_que_1.jpg", "", "Acta de la declaración Independencia de las Provincias Unidas del Sur en quechua" ]];
     /* shuffle items */
     carouselItems.sort(function() { return 0.5 - Math.random() });
 
@@ -158,7 +158,7 @@
     var slides = "";
     var indicators = "";
     var i, itemImg, itemLink;
-    for (i=0; i < 1; i++) {
+    for (i=0; i < 3; i++) {
         // calculate item image location
         itemImg = carouselItems[i][2];
         // calculate item link
@@ -229,7 +229,7 @@
     <h2 class="card-title h5">Colección</h2>
     <p class="card-text">
       
-      1      
+      3      
       
       <a class="text-dark" href="/patience/browse.html#transcripciones">Transcripciones <svg class="bi icon-sprite text-body" fill="currentColor" aria-hidden="true"><use xlink:href="/patience/assets/lib/cb-icons.svg#icon-default"/></svg></a><br>
       <a class="btn btn-sm btn-outline-secondary mt-2" href="/patience/data.html">Ver tabla de metadatos</a>
