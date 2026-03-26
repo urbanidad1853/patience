@@ -3,8 +3,8 @@
     "name": "declaración-de-independencia-de-las-provincias-unidas-del-sur-data",
     "title": "Declaración de Independencia de las Provincias Unidas del Sur Data",
     "description": "Metadata and data derived from Declaración de Independencia de las Provincias Unidas del Sur. Edición digital de la Declaración de Independencia de las Provincias Unidas del Sur.",
-    "keywords":  ["colecciones"," edición digital"],
-    "homepage": "http://localhost:4000/independencia/",
+    "keywords":  ["colecciones"," edición digital"," independencia"," Argentina"],
+    "homepage": "http://localhost:4000/patience/",
     "contributors": [
         {
             "title": "",
@@ -12,7 +12,7 @@
             "role": "author"
         }
     ],
-    "image": "/independencia/objects/portada.jpg",
+    "image": "/patience/objects/portada.jpg",
     "licenses": [
         {
             "name": "CC0-1.0",

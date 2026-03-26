@@ -14,9 +14,9 @@
         "language": "español",
         
         
-        "object_thumb": "http://localhost:4000/independencia/objects/thumbs/acta_sp_ay_1.jpg",
+        "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_ay_1.jpg",
         "object_location": "",
-        "reference_url": "/independencia/items/español.html"
+        "reference_url": "/patience/items/español.html"
     },
     { 
         
@@ -34,9 +34,9 @@
         
         
         
-        "object_thumb": "http://localhost:4000/independencia/objects/thumbs/acta_sp_ay_1.jpg",
-        "object_location": "http://localhost:4000/independencia/objects/acta_sp_ay_1.jpg",
-        "reference_url": "/independencia/items/español.html#español_p1"
+        "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_ay_1.jpg",
+        "object_location": "http://localhost:4000/patience/objects/acta_sp_ay_1.jpg",
+        "reference_url": "/patience/items/español.html#español_p1"
     },
     { 
         
@@ -54,9 +54,9 @@
         
         
         
-        "object_thumb": "http://localhost:4000/independencia/objects/thumbs/acta_sp_ay_2.jpg",
-        "object_location": "http://localhost:4000/independencia/objects/acta_sp_ay_2.jpg",
-        "reference_url": "/independencia/items/español.html#español_p2"
+        "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_ay_2.jpg",
+        "object_location": "http://localhost:4000/patience/objects/acta_sp_ay_2.jpg",
+        "reference_url": "/patience/items/español.html#español_p2"
     },
     { 
         
@@ -74,9 +74,9 @@
         
         
         
-        "object_thumb": "http://localhost:4000/independencia/objects/thumbs/acta_sp_ay_3.jpg",
-        "object_location": "http://localhost:4000/independencia/objects/acta_sp_ay_3.jpg",
-        "reference_url": "/independencia/items/español.html#español_p3"
+        "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_ay_3.jpg",
+        "object_location": "http://localhost:4000/patience/objects/acta_sp_ay_3.jpg",
+        "reference_url": "/patience/items/español.html#español_p3"
     },
     { 
         
@@ -94,9 +94,9 @@
         
         
         
-        "object_thumb": "http://localhost:4000/independencia/objects/thumbs/acta_sp_ay_4.jpg",
-        "object_location": "http://localhost:4000/independencia/objects/acta_sp_ay_4.jpg",
-        "reference_url": "/independencia/items/español.html#español_p4"
+        "object_thumb": "http://localhost:4000/patience/objects/thumbs/acta_sp_ay_4.jpg",
+        "object_location": "http://localhost:4000/patience/objects/acta_sp_ay_4.jpg",
+        "reference_url": "/patience/items/español.html#español_p4"
     }
     
 ] }

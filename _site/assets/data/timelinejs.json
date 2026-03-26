@@ -1,7 +1,7 @@
 {
     "title": {
         "media": {
-          "url": "/independencia/objects/portada.jpg",
+          "url": "/patience/objects/portada.jpg",
           "caption": null,
           "credit": "Declaración de Independencia de las Provincias Unidas del Sur"
         },
@@ -13,9 +13,9 @@
     "events": [
       {
         "media": {
-          "url": "/independencia/objects/small/acta_sp_ay_1.jpg",
+          "url": "/patience/objects/small/acta_sp_ay_1.jpg",
           "caption": "Acta de la declaración Independencia de las Provincias Unidas del Sur en español",
-          "link": "/independencia/items/español.html"
+          "link": "/patience/items/español.html"
         },
         "start_date": { 
           
