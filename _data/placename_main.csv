@@ -16,8 +16,8 @@ castilla,Castilla,España,39.42453482,-3.307344671,,"""Castilla"" es una región
 parana,Paraná,Argentina,-31.73975205,-60.50617645,,"Paraná es la capital de la provincia de Entre Ríos y se ubica en el centro-oeste argentino, destacándose por su historia y ubicación sobre las barrancas del río Paraná. "
 chile,Chile,Chile,-27.21214299,-69.70809146,,"Chile es un país que se encuentra en el extremo sur de América. Tiene una forma larga y angosta, definida por su ubicación entre el Océano Pacífico y la cordillera de los Andes"
 mendoza,Mendoza,Argentina,-32.89010359,-68.84822056,,Mendoza es una provincia de Argentina. Se localiza en la llanura al este de la cordillera de los Andes
-sanjaun,San Juan,Argentina,-31.53604668,-68.54377894,,"San Juan es una provincia de Argentina, ubicada en la zona central occidental, al este de la Cordillera de los Andes."
-smtucuman,San Miguel de Tucuman,Argentina,-26.8241,-65.2226,,"Capital de la provincia de Tucumán y uno de los centros históricos más antiguos del norte argentino. Durante el período colonial, fue una posta clave en el Camino Real al Alto Perú, actuando como punto de enlace comercial, político y religioso entre el Río de la Plata y el altiplano."
+sanjuan,San Juan,Argentina,-31.53604668,-68.54377894,,"San Juan es una provincia de Argentina, ubicada en la zona central occidental, al este de la Cordillera de los Andes."
+tucuman,San Miguel de Tucuman,Argentina,-26.8241,-65.2226,,"Capital de la provincia de Tucumán y uno de los centros históricos más antiguos del norte argentino. Durante el período colonial, fue una posta clave en el Camino Real al Alto Perú, actuando como punto de enlace comercial, político y religioso entre el Río de la Plata y el altiplano."
 lujan,Lujan,Argentina,-34.5703,-59.105,,"Luján es una ciudad de la provincia de Buenos Aires, reconocida por su Basílica dedicada a la Virgen de Luján, patrona de la Argentina. Durante el período colonial, fue un punto estratégico en el camino entre Buenos Aires y el interior del Virreinato del Río de la Plata, ofreciendo hospedaje y servicios a los viajeros."
 merlo,Merlo,Argentina,-32.3432,-65.0156,,"Merlo se encuentra en la provincia de San Luis, al pie de las Sierras de los Comechingones. Fundada en el siglo XVIII, fue un importante punto de paso entre Cuyo y el Río de la Plata"
 provinciasunidas,Provincias Unidas del Sur,Argentina/Bolivia/Paraguay/Uruguay,-34.6037,-58.3816,,"Las Provincias Unidas del Sur fueron una entidad política surgida en el contexto de las guerras de independencia hispanoamericanas a comienzos del siglo XIX. El término se utilizó para referirse al conjunto de provincias que, tras la Revolución de Mayo de 1810, rompieron con la autoridad colonial española y ensayaron distintas formas de organización autónoma y confederal en el área del antiguo Virreinato del Río de la Plata. Su existencia estuvo marcada por conflictos internos, disputas sobre el poder central y guerras externas, y constituyó un antecedente fundamental en la formación del Estado argentino."
@@ -25,26 +25,4 @@ catamarca,Catamarca,Argentina,-28.467,-65.783,,"Catamarca es una provincia del n
 chichas,Chichas,Argentina/Bolivia,-21.438,-65.735,,"La provincia de Chichas fue una antigua división administrativa de época colonial, ubicada en el sur del Alto Perú (actual Bolivia). Durante el período del Virreinato del Río de la Plata tuvo gran importancia estratégica y económica, principalmente por la minería y por su posición como zona de paso entre el Alto Perú y las regiones del noroeste argentino."
 santiagodelestero,Santiago del Estero ,Argentina,-27.783,-64.266,,"Santiago del Estero es una de las provincias más antiguas de Argentina, conocida como ""La Madre de Ciudades"" debido a que su capital, Santiago del Estero, es la ciudad más antigua del país, fundada en 1553."
 charcas,Charcas,Argentina/Bolivia,-19.584,-65.754,,"La provincia de Charcas fue una histórica división territorial del Virreinato del Río de la Plata, que en el contexto de la independencia de los países sudamericanos, formó parte de los territorios de lo que hoy son Bolivia y parte del norte de Argentina. A nivel geográfico, la provincia de Charcas incluía una importante zona de recursos mineros, como las riquezas de Potosí, y funcionaba como un nexo entre los territorios del Río de la Plata y las áreas andinas."
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-cordova,Cordoba,Argentina,-31.41666667,-64.18333333,,"Provincia del centro de Argentina, conocida por su diversidad geográfica que incluye sierras, valles y llanuras."
+mizque,Mizque,Argentina/Bolivia,-17.94101,-65.34016,,Ahora una pequeña cuidad en Bolivia
